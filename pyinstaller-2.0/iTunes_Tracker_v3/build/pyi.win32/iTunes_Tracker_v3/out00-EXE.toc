@@ -1,0 +1,10 @@
+('C:\\Users\\Dave\\Python\\iTunes_Work\\pyinstaller-2.0\\iTunes_Tracker_v3\\build\\pyi.win32\\iTunes_Tracker_v3\\iTunes_Tracker_v3.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ True,
+ 0,
+ 1358368656L)

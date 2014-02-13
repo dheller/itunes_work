@@ -1,0 +1,12 @@
+('C:\\Users\\Dave\\Python\\iTunes_Work\\pyinstaller-2.0\\iTunes_Tracker_v3\\build\\pyi.win32\\iTunes_Tracker_v3\\out00-PKG.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1},
+ [('out00-PYZ.pyz', 'C:\\Users\\Dave\\Python\\iTunes_Work\\pyinstaller-2.0\\iTunes_Tracker_v3\\build\\pyi.win32\\iTunes_Tracker_v3\\out00-PYZ.pyz', 'PYZ'), ('iu', 'C:\\Users\\Dave\\Python\\iTunes_Work\\pyinstaller-2.0\\PyInstaller\\loader\\iu.pyc', 'PYMODULE'), ('struct', 'C:\\Python27\\lib\\struct.pyc', 'PYMODULE'), ('archive', 'C:\\Users\\Dave\\Python\\iTunes_Work\\pyinstaller-2.0\\PyInstaller\\loader\\archive.pyc', 'PYMODULE'), ('_pyi_bootstrap', 'C:\\Users\\Dave\\Python\\iTunes_Work\\pyinstaller-2.0\\support\\_pyi_bootstrap.py', 'PYSOURCE'), ('carchive', 'C:\\Users\\Dave\\Python\\iTunes_Work\\pyinstaller-2.0\\PyInstaller\\loader\\carchive.py', 'PYSOURCE'), ('pyi_rth_encodings', 'C:\\Users\\Dave\\Python\\iTunes_Work\\pyinstaller-2.0\\support/rthooks/pyi_rth_encodings.py', 'PYSOURCE'), ('pyi_rth_versioneddll', 'C:\\Users\\Dave\\Python\\iTunes_Work\\pyinstaller-2.0\\support/rthooks/pyi_rth_versioneddll.py', 'PYSOURCE'), ('pyi_rth_win32comgenpy', 'C:\\Users\\Dave\\Python\\iTunes_Work\\pyinstaller-2.0\\support/rthooks/pyi_rth_win32comgenpy.py', 'PYSOURCE'), ('iTunes_Tracker_v3', 'iTunes_Tracker_v3.py', 'PYSOURCE'), ('iTunes_Tracker_v3.exe.manifest', 'C:\\Users\\Dave\\Python\\iTunes_Work\\pyinstaller-2.0\\iTunes_Tracker_v3\\build\\pyi.win32\\iTunes_Tracker_v3\\iTunes_Tracker_v3.exe.manifest', 'BINARY')],
+ 1,
+ None,
+ True,
+ 0)
